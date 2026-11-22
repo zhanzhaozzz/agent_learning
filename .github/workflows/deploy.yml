@@ -11,6 +11,8 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  # First deploy creates the Pages site; that API call needs administration.
+  administration: write
 
 concurrency:
   group: "pages"
@@ -25,6 +27,9 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
+        with:
+          # Create the GitHub Actions Pages site when this repository has none yet.
+          enablement: true
 
       - name: Install mdBook
         run: |
