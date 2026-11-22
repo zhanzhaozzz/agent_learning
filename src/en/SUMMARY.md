@@ -99,6 +99,11 @@
   - [10.7 Latest Research Progress (2025–2026)](./chapter_agentic_rl/07_latest_research.md)
   - [10.8 Agent-Specific Fine-Tuning: Teaching Models to Use Tools](./chapter_agentic_rl/08_agent_finetuning.md)
 
+- [Chapter 11: Self-Evolving Agents](./chapter_self_evolving/README.md)
+  - [11.1 Automatic Prompt Optimization](./chapter_self_evolving/01_automatic_prompt_optimization.md)
+  - [11.2 Self-Evolution Agent: From Execution to Self-Improvement](./chapter_self_evolving/02_self_evolution_agent.md)
+  - [11.3 Agentic Data Flywheel: Letting Agents Evolve Autonomously](./chapter_self_evolving/03_data_flywheel.md)
+
 ---
 
 - [Part III: Framework Practice](./part3.md)
