@@ -9,14 +9,14 @@
 From Function Calling, memory, planning, RAG, and context engineering to Agentic RL, multi-agent systems, evaluation, security, and production deployment.
 
 <p>
-<a href="https://Haozhe-Xing.github.io/agent_learning/en/"><img src="https://img.shields.io/badge/Read%20Online-English-2ea44f?style=for-the-badge" alt="Read the English book"></a>
-<a href="https://Haozhe-Xing.github.io/agent_learning/zh/"><img src="https://img.shields.io/badge/在线阅读-中文-d73a49?style=for-the-badge" alt="阅读中文版"></a>
+<a href="https://zhanzhaozzz.github.io/agent_learning/en/"><img src="https://img.shields.io/badge/Read%20Online-English-2ea44f?style=for-the-badge" alt="Read the English book"></a>
+<a href="https://zhanzhaozzz.github.io/agent_learning/zh/"><img src="https://img.shields.io/badge/在线阅读-中文-d73a49?style=for-the-badge" alt="阅读中文版"></a>
 </p>
 
 <p>
-<a href="https://github.com/Haozhe-Xing/agent_learning/stargazers"><img src="https://img.shields.io/github/stars/Haozhe-Xing/agent_learning?style=flat-square&logo=github&color=gold" alt="GitHub stars"></a>
+<a href="https://github.com/zhanzhaozzz/agent_learning/stargazers"><img src="https://img.shields.io/github/stars/zhanzhaozzz/agent_learning?style=flat-square&logo=github&color=gold" alt="GitHub stars"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT License"></a>
-<a href="https://github.com/Haozhe-Xing/agent_learning/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
+<a href="https://github.com/zhanzhaozzz/agent_learning/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
 <img src="https://img.shields.io/badge/Chapters-23-6f42c1?style=flat-square" alt="23 chapters">
 <img src="https://img.shields.io/badge/Languages-English%20%7C%20中文-0969da?style=flat-square" alt="Bilingual">
 </p>
@@ -55,41 +55,41 @@ The repository includes:
   - `src/en/SUMMARY.md` — English table of contents
   - `src/zh/SUMMARY.md` — Chinese table of contents
 - **Foundations**
-  - [1. What Is an Agent?](https://Haozhe-Xing.github.io/agent_learning/en/chapter_intro/)
-  - [2. LLM Fundamentals](https://Haozhe-Xing.github.io/agent_learning/en/chapter_llm/)
+  - [1. What Is an Agent?](https://zhanzhaozzz.github.io/agent_learning/en/chapter_intro/)
+  - [2. LLM Fundamentals](https://zhanzhaozzz.github.io/agent_learning/en/chapter_llm/)
 - **Core capabilities**
-  - [3. Tools](https://Haozhe-Xing.github.io/agent_learning/en/chapter_tools/)
-  - [4. Memory](https://Haozhe-Xing.github.io/agent_learning/en/chapter_memory/)
-  - [5. Planning](https://Haozhe-Xing.github.io/agent_learning/en/chapter_planning/)
-  - [6. RAG](https://Haozhe-Xing.github.io/agent_learning/en/chapter_rag/)
-  - [7. Context Engineering](https://Haozhe-Xing.github.io/agent_learning/en/chapter_context_engineering/)
-  - [8. Harness Engineering](https://Haozhe-Xing.github.io/agent_learning/en/chapter_harness/)
-  - [9. Skills](https://Haozhe-Xing.github.io/agent_learning/en/chapter_skill/)
-  - [10. Agentic RL](https://Haozhe-Xing.github.io/agent_learning/en/chapter_agentic_rl/)
-  - [11. Self-Evolving Agents](https://Haozhe-Xing.github.io/agent_learning/en/chapter_self_evolving/)
+  - [3. Tools](https://zhanzhaozzz.github.io/agent_learning/en/chapter_tools/)
+  - [4. Memory](https://zhanzhaozzz.github.io/agent_learning/en/chapter_memory/)
+  - [5. Planning](https://zhanzhaozzz.github.io/agent_learning/en/chapter_planning/)
+  - [6. RAG](https://zhanzhaozzz.github.io/agent_learning/en/chapter_rag/)
+  - [7. Context Engineering](https://zhanzhaozzz.github.io/agent_learning/en/chapter_context_engineering/)
+  - [8. Harness Engineering](https://zhanzhaozzz.github.io/agent_learning/en/chapter_harness/)
+  - [9. Skills](https://zhanzhaozzz.github.io/agent_learning/en/chapter_skill/)
+  - [10. Agentic RL](https://zhanzhaozzz.github.io/agent_learning/en/chapter_agentic_rl/)
+  - [11. Self-Evolving Agents](https://zhanzhaozzz.github.io/agent_learning/en/chapter_self_evolving/)
 - **Framework practice**
-  - [12. LangChain](https://Haozhe-Xing.github.io/agent_learning/en/chapter_langchain/)
-  - [13. LangGraph](https://Haozhe-Xing.github.io/agent_learning/en/chapter_langgraph/)
-  - [14. Agent Frameworks](https://Haozhe-Xing.github.io/agent_learning/en/chapter_frameworks/)
-  - [15. Claude Code](https://Haozhe-Xing.github.io/agent_learning/en/chapter_claude_code/)
+  - [12. LangChain](https://zhanzhaozzz.github.io/agent_learning/en/chapter_langchain/)
+  - [13. LangGraph](https://zhanzhaozzz.github.io/agent_learning/en/chapter_langgraph/)
+  - [14. Agent Frameworks](https://zhanzhaozzz.github.io/agent_learning/en/chapter_frameworks/)
+  - [15. Claude Code](https://zhanzhaozzz.github.io/agent_learning/en/chapter_claude_code/)
 - **Multi-agent systems**
-  - [16. Multi-Agent Collaboration](https://Haozhe-Xing.github.io/agent_learning/en/chapter_multi_agent/)
-  - [17. Agent Protocols](https://Haozhe-Xing.github.io/agent_learning/en/chapter_protocol/)
+  - [16. Multi-Agent Collaboration](https://zhanzhaozzz.github.io/agent_learning/en/chapter_multi_agent/)
+  - [17. Agent Protocols](https://zhanzhaozzz.github.io/agent_learning/en/chapter_protocol/)
 - **Production engineering**
-  - [18. Evaluation](https://Haozhe-Xing.github.io/agent_learning/en/chapter_evaluation/)
-  - [19. Security](https://Haozhe-Xing.github.io/agent_learning/en/chapter_security/)
-  - [20. Deployment](https://Haozhe-Xing.github.io/agent_learning/en/chapter_deployment/)
+  - [18. Evaluation](https://zhanzhaozzz.github.io/agent_learning/en/chapter_evaluation/)
+  - [19. Security](https://zhanzhaozzz.github.io/agent_learning/en/chapter_security/)
+  - [20. Deployment](https://zhanzhaozzz.github.io/agent_learning/en/chapter_deployment/)
 - **Capstone projects**
-  - [21. Coding Agent](https://Haozhe-Xing.github.io/agent_learning/en/chapter_coding_agent/)
-  - [22. Data Agent](https://Haozhe-Xing.github.io/agent_learning/en/chapter_data_agent/)
-  - [23. Multimodal Agent](https://Haozhe-Xing.github.io/agent_learning/en/chapter_multimodal/)
+  - [21. Coding Agent](https://zhanzhaozzz.github.io/agent_learning/en/chapter_coding_agent/)
+  - [22. Data Agent](https://zhanzhaozzz.github.io/agent_learning/en/chapter_data_agent/)
+  - [23. Multimodal Agent](https://zhanzhaozzz.github.io/agent_learning/en/chapter_multimodal/)
 - **Appendices**
-  - [Prompt templates](https://Haozhe-Xing.github.io/agent_learning/en/appendix/prompt_templates.html)
-  - [FAQ](https://Haozhe-Xing.github.io/agent_learning/en/appendix/faq.html)
-  - [Resources](https://Haozhe-Xing.github.io/agent_learning/en/appendix/resources.html)
-  - [Glossary](https://Haozhe-Xing.github.io/agent_learning/en/appendix/glossary.html)
-  - [KL divergence](https://Haozhe-Xing.github.io/agent_learning/en/appendix/kl_divergence.html)
-  - [Environment setup](https://Haozhe-Xing.github.io/agent_learning/en/chapter_setup/)
+  - [Prompt templates](https://zhanzhaozzz.github.io/agent_learning/en/appendix/prompt_templates.html)
+  - [FAQ](https://zhanzhaozzz.github.io/agent_learning/en/appendix/faq.html)
+  - [Resources](https://zhanzhaozzz.github.io/agent_learning/en/appendix/resources.html)
+  - [Glossary](https://zhanzhaozzz.github.io/agent_learning/en/appendix/glossary.html)
+  - [KL divergence](https://zhanzhaozzz.github.io/agent_learning/en/appendix/kl_divergence.html)
+  - [Environment setup](https://zhanzhaozzz.github.io/agent_learning/en/chapter_setup/)
 - **Runnable implementation**
   - `reference-agent/` — teaching baseline Agent implementation
   - `reference-agent/src/reference_agent/` — Agent loop, providers, tools, memory, security, server, evaluation
@@ -154,7 +154,7 @@ Feel free to contact the author on WeChat.
 
 Corrections, clearer explanations, runnable examples, translation fixes, and new paper notes are welcome.
 
-- Found an error? [Open an issue](https://github.com/Haozhe-Xing/agent_learning/issues/new).
+- Found an error? [Open an issue](https://github.com/zhanzhaozzz/agent_learning/issues/new).
 - Want to improve a chapter? Edit the matching file under both `src/en/` and `src/zh/` when possible.
 - Adding a page? Update both `SUMMARY.md` files.
 - Adding a diagram? Place localized assets under `src/en/svg/` and `src/zh/svg/`.
@@ -175,13 +175,13 @@ Please keep claims verifiable and prefer primary sources for papers, protocols, 
 - [ ] Evaluation and observability starter templates
 - [ ] More exercises, interview questions, and regression cases
 
-Suggestions are welcome in [Issues](https://github.com/Haozhe-Xing/agent_learning/issues).
+Suggestions are welcome in [Issues](https://github.com/zhanzhaozzz/agent_learning/issues).
 
 ---
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [MIT License](LICENSE). Copyright (c) 2025 Haozhe Xing.
 
 <div align="center">
 
@@ -189,6 +189,6 @@ Released under the [MIT License](LICENSE).
 
 A Star helps more engineers find a structured path through AI Agents instead of another disconnected list of links.
 
-[Read in English](https://Haozhe-Xing.github.io/agent_learning/en/) · [阅读中文版](https://Haozhe-Xing.github.io/agent_learning/zh/) · [Open an issue](https://github.com/Haozhe-Xing/agent_learning/issues)
+[Read in English](https://zhanzhaozzz.github.io/agent_learning/en/) · [阅读中文版](https://zhanzhaozzz.github.io/agent_learning/zh/) · [Open an issue](https://github.com/zhanzhaozzz/agent_learning/issues)
 
 </div>

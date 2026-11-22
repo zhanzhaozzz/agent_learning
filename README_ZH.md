@@ -9,14 +9,14 @@
 从 Function Calling、记忆、规划、RAG、上下文工程，一直讲到 Agentic RL、多 Agent、评估、安全与生产部署。
 
 <p>
-<a href="https://Haozhe-Xing.github.io/agent_learning/zh/"><img src="https://img.shields.io/badge/在线阅读-中文-d73a49?style=for-the-badge" alt="阅读中文版"></a>
-<a href="https://Haozhe-Xing.github.io/agent_learning/en/"><img src="https://img.shields.io/badge/Read%20Online-English-2ea44f?style=for-the-badge" alt="Read the English book"></a>
+<a href="https://zhanzhaozzz.github.io/agent_learning/zh/"><img src="https://img.shields.io/badge/在线阅读-中文-d73a49?style=for-the-badge" alt="阅读中文版"></a>
+<a href="https://zhanzhaozzz.github.io/agent_learning/en/"><img src="https://img.shields.io/badge/Read%20Online-English-2ea44f?style=for-the-badge" alt="Read the English book"></a>
 </p>
 
 <p>
-<a href="https://github.com/Haozhe-Xing/agent_learning/stargazers"><img src="https://img.shields.io/github/stars/Haozhe-Xing/agent_learning?style=flat-square&logo=github&color=gold" alt="GitHub stars"></a>
+<a href="https://github.com/zhanzhaozzz/agent_learning/stargazers"><img src="https://img.shields.io/github/stars/zhanzhaozzz/agent_learning?style=flat-square&logo=github&color=gold" alt="GitHub stars"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT License"></a>
-<a href="https://github.com/Haozhe-Xing/agent_learning/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="欢迎 PR"></a>
+<a href="https://github.com/zhanzhaozzz/agent_learning/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="欢迎 PR"></a>
 <img src="https://img.shields.io/badge/章节-23-6f42c1?style=flat-square" alt="23 章">
 <img src="https://img.shields.io/badge/语言-中文%20%7C%20English-0969da?style=flat-square" alt="中英双语">
 </p>
@@ -64,12 +64,12 @@
 
 | 当前目标 | 推荐路线 |
 | --- | --- |
-| **第一次构建 Agent** | [Agent 基础](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_intro/) → [大模型基础](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_llm/) → [Hello Agent](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_setup/04_hello_agent.html) |
-| **构建 Agent 应用** | [工具](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_tools/) → [记忆](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_memory/) → [规划](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_planning/) → [RAG](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_rag/) |
-| **让脆弱 Demo 变可靠** | [上下文工程](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_context_engineering/) → [Harness 工程](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_harness/) → [评估](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_evaluation/) → [安全](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_security/) |
-| **训练和改进 Agent** | [Agentic RL](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_agentic_rl/) → [自我进化 Agent](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_self_evolving/) |
-| **选择 Agent 框架** | [LangChain](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_langchain/) → [LangGraph](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_langgraph/) → [框架全景](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_frameworks/) |
-| **设计多 Agent 系统** | [多 Agent 协作](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_multi_agent/) → [MCP / A2A / ANP](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_protocol/) |
+| **第一次构建 Agent** | [Agent 基础](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_intro/) → [大模型基础](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_llm/) → [Hello Agent](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_setup/04_hello_agent.html) |
+| **构建 Agent 应用** | [工具](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_tools/) → [记忆](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_memory/) → [规划](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_planning/) → [RAG](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_rag/) |
+| **让脆弱 Demo 变可靠** | [上下文工程](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_context_engineering/) → [Harness 工程](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_harness/) → [评估](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_evaluation/) → [安全](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_security/) |
+| **训练和改进 Agent** | [Agentic RL](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_agentic_rl/) → [自我进化 Agent](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_self_evolving/) |
+| **选择 Agent 框架** | [LangChain](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_langchain/) → [LangGraph](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_langgraph/) → [框架全景](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_frameworks/) |
+| **设计多 Agent 系统** | [多 Agent 协作](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_multi_agent/) → [MCP / A2A / ANP](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_protocol/) |
 
 ---
 
@@ -77,14 +77,14 @@
 
 | 部分 | 章节 | 核心主题 |
 | --- | --- | --- |
-| **第一部分：基础** | [1. 什么是 Agent？](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_intro/) · [2. 大语言模型基础](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_llm/) | Agent Loop、LLM 原理、BPE、Attention、KV Cache、RoPE、提示词、模型 API |
-| **第二部分：核心能力** | [3. 工具](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_tools/) · [4. 记忆](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_memory/) · [5. 规划](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_planning/) · [6. RAG](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_rag/) · [7. 上下文](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_context_engineering/) · [8. Harness](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_harness/) · [9. 技能](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_skill/) · [10. Agentic RL](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_agentic_rl/) · [11. 自我进化](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_self_evolving/) | Function Calling、MemGPT/Letta、ReAct、GraphRAG、上下文腐化、结构化输出、Skill System、PPO/DPO/GRPO、数据飞轮 |
-| **第三部分：框架实战** | [12. LangChain](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_langchain/) · [13. LangGraph](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_langgraph/) · [14. 框架全景](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_frameworks/) · [15. Claude Code](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_claude_code/) | Chain、状态图、Human-in-the-Loop、CrewAI、AutoGen、低代码平台、Coding Agent |
-| **第四部分：多 Agent** | [16. 多 Agent 协作](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_multi_agent/) · [17. 通信协议](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_protocol/) | Supervisor 与去中心化、角色分工、状态共享、MCP、A2A、ANP |
-| **第五部分：生产化** | [18. 评估](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_evaluation/) · [19. 安全](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_security/) · [20. 部署](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_deployment/) | Benchmark、LLM-as-Judge、可观测性、回归测试、提示注入、Guardrails、沙箱、FastAPI、Docker、Kubernetes |
-| **第六部分：综合项目** | [21. 编程 Agent](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_coding_agent/) · [22. 数据分析 Agent](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_data_agent/) · [23. 多模态 Agent](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_multimodal/) | 仓库编辑、代码执行、数据分析、报告生成、Computer Use、多模态 RAG |
+| **第一部分：基础** | [1. 什么是 Agent？](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_intro/) · [2. 大语言模型基础](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_llm/) | Agent Loop、LLM 原理、BPE、Attention、KV Cache、RoPE、提示词、模型 API |
+| **第二部分：核心能力** | [3. 工具](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_tools/) · [4. 记忆](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_memory/) · [5. 规划](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_planning/) · [6. RAG](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_rag/) · [7. 上下文](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_context_engineering/) · [8. Harness](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_harness/) · [9. 技能](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_skill/) · [10. Agentic RL](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_agentic_rl/) · [11. 自我进化](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_self_evolving/) | Function Calling、MemGPT/Letta、ReAct、GraphRAG、上下文腐化、结构化输出、Skill System、PPO/DPO/GRPO、数据飞轮 |
+| **第三部分：框架实战** | [12. LangChain](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_langchain/) · [13. LangGraph](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_langgraph/) · [14. 框架全景](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_frameworks/) · [15. Claude Code](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_claude_code/) | Chain、状态图、Human-in-the-Loop、CrewAI、AutoGen、低代码平台、Coding Agent |
+| **第四部分：多 Agent** | [16. 多 Agent 协作](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_multi_agent/) · [17. 通信协议](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_protocol/) | Supervisor 与去中心化、角色分工、状态共享、MCP、A2A、ANP |
+| **第五部分：生产化** | [18. 评估](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_evaluation/) · [19. 安全](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_security/) · [20. 部署](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_deployment/) | Benchmark、LLM-as-Judge、可观测性、回归测试、提示注入、Guardrails、沙箱、FastAPI、Docker、Kubernetes |
+| **第六部分：综合项目** | [21. 编程 Agent](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_coding_agent/) · [22. 数据分析 Agent](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_data_agent/) · [23. 多模态 Agent](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_multimodal/) | 仓库编辑、代码执行、数据分析、报告生成、Computer Use、多模态 RAG |
 
-**附录：**[提示词模板](https://Haozhe-Xing.github.io/agent_learning/zh/appendix/prompt_templates.html) · [常见问题](https://Haozhe-Xing.github.io/agent_learning/zh/appendix/faq.html) · [学习资源](https://Haozhe-Xing.github.io/agent_learning/zh/appendix/resources.html) · [术语表](https://Haozhe-Xing.github.io/agent_learning/zh/appendix/glossary.html) · [KL 散度](https://Haozhe-Xing.github.io/agent_learning/zh/appendix/kl_divergence.html) · [环境搭建](https://Haozhe-Xing.github.io/agent_learning/zh/chapter_setup/)
+**附录：**[提示词模板](https://zhanzhaozzz.github.io/agent_learning/zh/appendix/prompt_templates.html) · [常见问题](https://zhanzhaozzz.github.io/agent_learning/zh/appendix/faq.html) · [学习资源](https://zhanzhaozzz.github.io/agent_learning/zh/appendix/resources.html) · [术语表](https://zhanzhaozzz.github.io/agent_learning/zh/appendix/glossary.html) · [KL 散度](https://zhanzhaozzz.github.io/agent_learning/zh/appendix/kl_divergence.html) · [环境搭建](https://zhanzhaozzz.github.io/agent_learning/zh/chapter_setup/)
 
 ---
 
@@ -121,15 +121,15 @@
 
 ### 在线阅读
 
-- [中文在线书](https://Haozhe-Xing.github.io/agent_learning/zh/)
-- [English Book](https://Haozhe-Xing.github.io/agent_learning/en/)
+- [中文在线书](https://zhanzhaozzz.github.io/agent_learning/zh/)
+- [English Book](https://zhanzhaozzz.github.io/agent_learning/en/)
 
 ### 本地构建中英双语版本
 
 依赖：`mdbook`、可选的 `mdbook-katex`、Python 3。
 
 ```bash
-git clone https://github.com/Haozhe-Xing/agent_learning.git
+git clone https://github.com/zhanzhaozzz/agent_learning.git
 cd agent_learning
 ./serve.sh
 ```
@@ -226,7 +226,7 @@ agent_learning/
 
 欢迎纠错、优化讲解、补充可运行示例、修订翻译或新增论文解读。
 
-- 发现错误：直接[提交 Issue](https://github.com/Haozhe-Xing/agent_learning/issues/new)。
+- 发现错误：直接[提交 Issue](https://github.com/zhanzhaozzz/agent_learning/issues/new)。
 - 修改章节：尽量同步修改 `src/zh/` 与 `src/en/` 中的对应文件。
 - 新增页面：同时更新两份 `SUMMARY.md`。
 - 新增图解：分别放入 `src/zh/svg/` 与 `src/en/svg/`。
@@ -247,13 +247,13 @@ agent_learning/
 - [ ] 评估与可观测性项目模板
 - [ ] 更多练习题、面试题和回归用例
 
-建议可以直接发到 [Issues](https://github.com/Haozhe-Xing/agent_learning/issues)。
+建议可以直接发到 [Issues](https://github.com/zhanzhaozzz/agent_learning/issues)。
 
 ---
 
 ## 开源协议
 
-项目采用 [MIT License](LICENSE)。
+项目采用 [MIT License](LICENSE)。版权所有 © 2025 Haozhe Xing。
 
 <div align="center">
 
@@ -261,6 +261,6 @@ agent_learning/
 
 Star 会让更多正在学习 AI Agent 的工程师找到一条结构化路线，而不是再掉进互不相连的链接清单里。
 
-[阅读中文版](https://Haozhe-Xing.github.io/agent_learning/zh/) · [Read in English](https://Haozhe-Xing.github.io/agent_learning/en/) · [提交 Issue](https://github.com/Haozhe-Xing/agent_learning/issues)
+[阅读中文版](https://zhanzhaozzz.github.io/agent_learning/zh/) · [Read in English](https://zhanzhaozzz.github.io/agent_learning/en/) · [提交 Issue](https://github.com/zhanzhaozzz/agent_learning/issues)
 
 </div>
