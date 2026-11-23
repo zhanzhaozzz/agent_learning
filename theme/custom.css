@@ -8,7 +8,10 @@
    2rem / 1.75rem is the reading size for both zh and en. */
 :root {
   --content-max-width: 1000px;
-  --sidebar-width: 300px;
+  /* Wider than mdBook's 300px so 16px Chinese chapter titles wrap to two lines, not three.
+     Keep the 80vw cap so a phone sidebar does not exceed the screen. */
+  --sidebar-target-width: 400px;
+  --sidebar-width: min(var(--sidebar-target-width), 80vw);
 }
 
 .content {
@@ -69,9 +72,10 @@ html:not(.sidebar-visible) .content main {
   margin-bottom: 1.2em;
 }
 
-/* 侧边栏部分标题（分篇链接）加粗加大 */
+/* 侧边栏章节标题比页内链接略粗 */
 .sidebar .chapter > li > a {
-  font-size: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 600;
 }
 
 /* ---------- 标题美化 ---------- */
@@ -168,11 +172,21 @@ html:not(.sidebar-visible) .content main {
 /* ---------- 侧边栏优化 ---------- */
 .sidebar .sidebar-scrollbox {
   padding-top: 1em;
-  font-size: 1.1rem;
+  /* 1.6rem = 16px. Overrides mdBook's 0.875em sidebar and 1.4rem chapter list. */
+  font-size: 1.6rem;
+  line-height: 1.45;
+}
+
+.sidebar .chapter,
+.sidebar .section,
+.sidebar .chapter li.chapter-item {
+  line-height: 1.45;
 }
 
 .sidebar .chapter li a {
-  padding: 0.35em 1em;
+  font-size: 1.6rem;
+  line-height: 1.45;
+  padding: 0.42em 0.9em;
   border-radius: 4px;
   transition: background 0.15s ease;
 }
@@ -200,7 +214,7 @@ html:not(.sidebar-visible) .content main {
 .sidebar .chapter li.sidebar-collapsible .sidebar-collapse-toggle {
   position: absolute;
   left: 0.55em;
-  top: 0.32em;
+  top: 0.5em;
   width: 1.35em;
   height: 1.35em;
   padding: 0;
@@ -255,13 +269,18 @@ html:not(.sidebar-visible) .content main {
 
 /* 分篇标题样式（SUMMARY 中的 --- 分隔符） */
 .sidebar .chapter li.part-title {
-  font-size: 0.95em;
+  font-size: 1.6rem;
   font-weight: 700;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.04em;
   color: var(--links);
   padding: 1em 0 0.3em 0.8em;
   margin-top: 0.6em;
   border-top: 1px solid rgba(128, 128, 128, 0.15);
+}
+
+.sidebar .chapter li.part-title > a {
+  font-size: 1.6rem;
+  font-weight: 700;
 }
 
 .sidebar .chapter li.part-title:first-child {
@@ -601,9 +620,9 @@ html:not(.sidebar-visible) .content main {
   width: 300px;
   max-height: calc(100vh - 80px);
   overflow-y: auto;
-  padding: 16px 18px 20px 18px;
-  font-size: 1.1rem;
-  line-height: 1.8;
+  padding: 16px 16px 20px 16px;
+  font-size: 1.6rem;
+  line-height: 1.45;
   z-index: 100;
   opacity: 0;
   transform: translateX(10px);
@@ -618,7 +637,7 @@ html:not(.sidebar-visible) .content main {
 }
 
 #page-toc .toc-title {
-  font-size: 1.0rem;
+  font-size: 1.4rem;
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -727,16 +746,16 @@ html:not(.sidebar-visible) .content main {
 
 #page-toc a {
   display: block;
-  padding: 6px 10px;
+  padding: 0.4em 0.55em;
   border-radius: 5px;
   color: var(--fg);
   text-decoration: none;
   border-bottom: none;
   opacity: 0.8;
+  line-height: 1.45;
   transition: opacity 0.15s ease, background 0.15s ease, color 0.15s ease;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  white-space: normal;
+  overflow: visible;
 }
 
 #page-toc a:hover {
@@ -755,12 +774,12 @@ html:not(.sidebar-visible) .content main {
 
 #page-toc .toc-h2 {
   padding-left: 0;
-  font-size: 1.1rem;
+  font-size: 1.6rem;
 }
 
 #page-toc .toc-h3 {
-  padding-left: 18px;
-  font-size: 1.0rem;
+  padding-left: 14px;
+  font-size: 1.5rem;
 }
 
 /* 暗色主题适配 */
